@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Habit Tracker App</string>
+
+    <string name="frequency_unkown">Unknown</string>
+    <string name="frequency_hourly">Hourly</string>
+    <string name="frequency_daily">Daily</string>
+    <string name="frequency_weekly">Weekly</string>
+    <string name="frequency_monthly">Monthly</string>
+    <string name="frequency_yearly">Yearly</string>
+
+    <string name="state_unknown">Unknown</string>
+    <string name="state_to_do">TO DO</string>
+    <string name="state_completed">Completed</string>
+    <string name="overview">Overview</string>
+    <string name="hint_habit_activity">Activity Name</string>
+    <string name="hint_habit_desc">Description</string>
+    <string name="frequency">Frequency</string>
+    <string name="state">State</string>
+    <string name="time">Time(min)</string>
+    <string name="hint_activity_time">Time</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_frequency_options">
+        <item>@string/frequency_hourly</item>
+        <item>@string/frequency_daily</item>
+        <item>@string/frequency_weekly</item>
+        <item>@string/frequency_monthly</item>
+        <item>@string/frequency_yearly</item>
+    </string-array>
+
+    <string-array name="array_state_options">
+        <item>@string/state_unknown</item>
+        <item>@string/state_to_do</item>
+        <item>@string/state_completed</item>
+    </string-array>
+</resources>
